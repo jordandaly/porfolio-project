@@ -25,6 +25,14 @@
     background-color: #ffffff;
 }
 
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+.bg-color-groups {
+    background-color: #ffffff;
+}
+
 .ui-menu-color-home {
     background-color: #FFFFFF;
 }
@@ -40,6 +48,14 @@
 .ui-menu-color-download {
     background-color: #FFFFFF;
     /*A0A29F F33F27*/
+}
+
+.ui-menu-color-github {
+    background-color: #FFFFFF;
+}
+
+.ui-menu-color-interests {
+    background-color: #FFFFFF;
 }
 
 body {
